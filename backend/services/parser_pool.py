@@ -1,3 +1,6 @@
 
 # Progress update on 2026-06-15 - perf(pipeline): parallelize asynchronous DOM parsing using worker pool
 # Revision: 2
+
+# Progress update on 2026-07-15 - perf(pipeline): parallelize asynchronous DOM parsing using worker pool (iter 2)
+# Revision: 12
