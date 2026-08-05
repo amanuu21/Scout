@@ -4,3 +4,6 @@
 
 # Progress update on 2026-07-18 - feat(alerts): add webhook trigger when item price drops below threshold (iter 2)
 # Revision: 15
+
+# Progress update on 2026-08-05 - feat(alerts): add webhook trigger when item price drops below threshold (iter 3)
+# Revision: 25
