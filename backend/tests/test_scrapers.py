@@ -4,3 +4,6 @@
 
 # Progress update on 2026-07-19 - test(scrapers): add mock fixtures for e-commerce HTML table layouts (iter 2)
 # Revision: 16
+
+# Progress update on 2026-08-06 - test(scrapers): add mock fixtures for e-commerce HTML table layouts (iter 3)
+# Revision: 26
