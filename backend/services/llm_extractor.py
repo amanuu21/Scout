@@ -7,3 +7,6 @@
 
 # Progress update on 2026-07-29 - feat(ai): integrate structured JSON extraction for product specifications (iter 3)
 # Revision: 23
+
+# Progress update on 2026-08-11 - feat(ai): integrate structured JSON extraction for product specifications (iter 4)
+# Revision: 33
