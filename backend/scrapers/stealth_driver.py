@@ -10,3 +10,6 @@
 
 # Progress update on 2026-08-11 - feat(scraper): add dynamic stealth mode to bypass aggressive bot detection (iter 4)
 # Revision: 31
+
+# Progress update on 2026-08-16 - feat(scraper): add dynamic stealth mode to bypass aggressive bot detection (iter 5)
+# Revision: 41
