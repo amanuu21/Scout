@@ -7,3 +7,6 @@
 
 # Progress update on 2026-08-10 - feat(export): support exporting extracted market intelligence to Parquet (iter 3)
 # Revision: 29
+
+# Progress update on 2026-08-16 - feat(export): support exporting extracted market intelligence to Parquet (iter 4)
+# Revision: 39
