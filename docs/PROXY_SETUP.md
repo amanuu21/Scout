@@ -10,3 +10,6 @@
 
 # Progress update on 2026-08-15 - docs: document proxy pool configuration and rate limit recommendations (iter 4)
 # Revision: 38
+
+# Progress update on 2026-08-25 - docs: document proxy pool configuration and rate limit recommendations (iter 5)
+# Revision: 48
